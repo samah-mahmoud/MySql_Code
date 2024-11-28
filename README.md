@@ -1,3 +1,0 @@
-# MySql_Code
-
-## coding 
